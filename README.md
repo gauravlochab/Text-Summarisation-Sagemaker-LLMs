@@ -1,6 +1,9 @@
 # Text-Summarisation-Sagemaker-T5-Pegasus-BART-LLMs
 text summarisation using different transformers based model on aws-sagemaker
 
+![Project Goals](https://user-images.githubusercontent.com/20882775/197344115-41d96731-4470-4ed6-ad6a-3f09b440981c.png)
+
+
 * Files : summarisation_sagemaker.ipynb
 * Paper for all the findings: summarisation using transformers.pdf
 * Data for used for EDA and training: Val, train, test CSVs
